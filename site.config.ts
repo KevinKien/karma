@@ -45,7 +45,8 @@ export default siteConfig({
   pageUrlOverrides: {
      '/book': '561f992e260e4717826e5e43de041386',
      '/blog': '2bce9d34e7344f2d9860d0afc4b5671a'
-  }
+  },
+    
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
