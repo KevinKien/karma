@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Karma Blog',
-  domain: 'karma.blog',
+  domain: 'https://karmablog.vercel.app/',
   author: 'Karma',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Karma Blog',
 
   // social usernames (optional)
   twitter: '',
