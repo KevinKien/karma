@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Karma Blog',
-  domain: 'https://karma.kevinkkien.me/',
+  domain: 'https://karma.kevinkkien.me',
   author: 'Karma',
 
   // open graph metadata (optional)
